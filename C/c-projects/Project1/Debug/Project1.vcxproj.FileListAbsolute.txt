@@ -1,0 +1,2 @@
+C:\Users\Marco\OneDrive\GitHub\Warehouse\C\c-projects\Project1\Debug\Project1.exe
+C:\Users\Marco\OneDrive\GitHub\Warehouse\C\c-projects\Project1\Debug\Project1.pdb
